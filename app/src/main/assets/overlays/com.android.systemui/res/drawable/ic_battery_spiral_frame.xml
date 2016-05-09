@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+    Copyright (C) 2016 Clark Scheff
+
+    Licensed under the Apache License, Version 2.0 (the "License");
+    you may not use this file except in compliance with the License.
+    You may obtain a copy of the License at
+
+         http://www.apache.org/licenses/LICENSE-2.0
+
+    Unless required by applicable law or agreed to in writing, software
+    distributed under the License is distributed on an "AS IS" BASIS,
+    WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+    See the License for the specific language governing permissions and
+    limitations under the License.
+-->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="24dp"
+    android:height="24dp"
+    android:viewportWidth="25"
+    android:viewportHeight="25">
+
+    <path
+        android:name="frame"
+        android:strokeColor="@*com.android.systemui:color/batterymeter_frame_color"
+        android:strokeLineJoin="round"
+        android:strokeWidth="2"
+        android:pathData="M10.9461,13.058 C11.3971,13.5079,10.5607,13.8879,10.1966,13.808
+C9.20982,13.5879,9.05118,12.3279,9.44706,11.558
+C10.1552,10.188,11.994,10.028,13.1948,10.808
+C14.9569,11.9579,15.1205,14.438,13.9443,16.058
+C12.3766,18.2179,9.23544,18.3879,7.19843,16.808
+C4.63506,14.8279,4.4688,11.0179,6.44889,8.56799
+C8.84704,5.5979,13.331,5.43799,16.1929,7.81799
+C19.5656,10.6279,19.7328,15.788,16.9424,19.058
+C13.7208,22.8379,7.88337,23.0079,4.2002,19.808
+C0.01515,16.178,-0.15248,9.658,3.45066,5.568
+C7.49284,0.97791,14.6883,0.80799,19.191,4.818
+C24.1899,9.26795,24.3578,17.1479,19.9405,22.058"/>
+
+</vector>

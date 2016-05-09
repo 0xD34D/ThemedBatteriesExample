@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+    Copyright (C) 2016 Clark Scheff
+
+    Licensed under the Apache License, Version 2.0 (the "License");
+    you may not use this file except in compliance with the License.
+    You may obtain a copy of the License at
+
+         http://www.apache.org/licenses/LICENSE-2.0
+
+    Unless required by applicable law or agreed to in writing, software
+    distributed under the License is distributed on an "AS IS" BASIS,
+    WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+    See the License for the specific language governing permissions and
+    limitations under the License.
+-->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="26dp"
+    android:height="24dp"
+    android:viewportWidth="28"
+    android:viewportHeight="24">
+
+    <path
+        android:name="battery_level"
+        android:strokeColor="#000000"
+        android:strokeLineJoin="round"
+        android:strokeWidth="2"
+        android:pathData="M0.924483,12.4878 C1.20576,12.7678,1.48704,13.0479,1.76832,13.2478
+C2.0496,13.4479,2.33088,13.5679,2.61215,13.5778
+C2.89343,13.5878,3.17471,13.4778,3.45598,13.2778
+C3.73726,13.0778,4.01854,12.7878,4.29981,12.4678
+C4.58109,12.1478,4.86237,11.8079,5.14364,11.5278
+C5.42492,11.2478,5.7062,11.0378,5.98747,10.9379
+C6.26875,10.8478,6.55003,10.8778,6.8313,11.0278
+C7.11258,11.1879,7.39385,11.4578,7.67513,11.8079
+C7.95641,12.1478,8.23769,12.5479,8.51896,12.9178
+C8.80024,13.2778,9.08152,13.6078,9.36279,13.8079
+C9.64407,14.0078,9.92535,14.0778,10.2066,13.9978
+C10.4879,13.9078,10.7692,13.6779,11.0504,13.3278
+C11.3317,12.9778,11.613,12.5278,11.8942,12.0679
+C12.1755,11.6078,12.4568,11.1578,12.738,10.8278
+C13.0193,10.4978,13.3006,10.2878,13.5818,10.2578
+C13.8631,10.2378,14.1444,10.3978,14.4256,10.7278
+C14.7069,11.0579,14.9882,11.5579,15.2694,12.1078
+C15.5507,12.6578,15.832,13.2678,16.1132,13.7778
+C16.3945,14.2878,16.6758,14.6979,16.957,14.8878
+C17.2383,15.0778,17.5196,15.0479,17.8008,14.7678
+C18.0821,14.4878,18.3634,13.9778,18.6446,13.3179
+C18.9259,12.6578,19.2072,11.8478,19.4884,11.0978
+C19.7697,10.3378,20.051,9.62781,20.3322,9.16785
+C20.6135,8.69788,20.8948,8.48779,21.176,8.6178
+C21.4573,8.7478,21.7386,9.23779,22.0198,10.0278
+C22.3011,10.8179,22.5824,11.9078,22.8636,13.0778
+C23.1449,14.2478,23.4262,15.4978,23.7074,16.5278
+C23.9887,17.5479,24.27,18.3378,24.5512,18.6078
+C24.8325,18.8778,25.1138,18.6278,25.395,17.7178
+C25.6763,16.8079,25.9576,15.2478,26.2388,13.1078
+C26.5201,10.9778,26.8014,8.27783,27.0826,5.32776"/>
+
+</vector>
