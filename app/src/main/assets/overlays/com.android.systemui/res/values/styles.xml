@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="BatteryMeterViewDrawable.Circle" parent="@*com.android.systemui:BatteryMeterViewDrawable">
+        <item name="android:gravity">bottom|center_horizontal</item>
+    </style>
+
+    <style name="BatteryMeterViewDrawable.Landscape" parent="@*com.android.systemui:BatteryMeterViewDrawable">
+        <item name="android:gravity">top|left</item>
+    </style>
+
+</resources>
