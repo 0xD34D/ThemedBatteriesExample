@@ -2,6 +2,12 @@
 ============================
 The day has finally come when theme designers can once again theme the look of the status bar's battery meter.  The battery meter has been re-designed to make use of Android's native support for vector based drawables, allowing theme designers to overlay a handful of XML files to give the battery a fresh new look.
 
+|Style    |Stock                      |Themed                      |
+|---------|:-------------------------:|:--------------------------:|
+|Portrait |![portrait][stock_portrait]|![portrait][themed_portrait]|
+|Landscape|![landscape][stock_landscape]|![landscape][themed_landscape]|
+|Circle   |![circle][stock_circle]|![circle][themed_circle]|
+
 **How it works**
 ------------
 Each battery type is made up of three layers that are composed into the final battery.  These layers are:
@@ -116,3 +122,10 @@ Layer list - *drawable/ic_battery_circle.xml*
             android:drawable="@drawable/ic_battery_bolt"/>
     
     </layer-list>
+
+[stock_portrait]: https://github.com/0xD34D/ThemedBatteriesExample/raw/master/images/stock_battery_portrait.png "Portrait battery style - stock"
+[stock_landscape]: https://github.com/0xD34D/ThemedBatteriesExample/raw/master/images/stock_battery_landscape.png "Landscape battery style - stock"
+[stock_circle]: https://github.com/0xD34D/ThemedBatteriesExample/raw/master/images/stock_battery_circle.png "Portrait battery style - stock"
+[themed_portrait]: https://github.com/0xD34D/ThemedBatteriesExample/raw/master/images/themed_battery_portrait.png "Portrait battery style - themed"
+[themed_landscape]: https://github.com/0xD34D/ThemedBatteriesExample/raw/master/images/themed_battery_landscape.png "Landscape battery style - themed"
+[themed_circle]: https://github.com/0xD34D/ThemedBatteriesExample/raw/master/images/themed_battery_circle.png "Portrait battery style - themed"
