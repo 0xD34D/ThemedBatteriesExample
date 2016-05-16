@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:cc="http://creativecommons.org/ns#"
+     xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+     xmlns:svg="http://www.w3.org/2000/svg"
+     xmlns="http://www.w3.org/2000/svg"
+     xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+     xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+     inkscape:version="0.91 r"
+     version="1.1"
+     id="svg2"
+     viewBox="0 0 28 24.000001"
+     height="24"
+     width="28"
+     sodipodi:docname="sinc_battery.svg">
+    <sodipodi:namedview
+         inkscape:window-maximized="1"
+         inkscape:window-y="0"
+         inkscape:window-x="0"
+         inkscape:window-height="1029"
+         inkscape:window-width="1920"
+         inkscape:showpageshadow="false"
+         units="px"
+         showgrid="false"
+         inkscape:current-layer="layer1"
+         inkscape:document-units="px"
+         inkscape:cy="14.845158"
+         inkscape:cx="15.986581"
+         inkscape:zoom="15.839192"
+         inkscape:pageshadow="2"
+         inkscape:pageopacity="0.0"
+         borderopacity="1.0"
+         bordercolor="#666666"
+         pagecolor="#ffffff"
+         id="base" />
+    <defs
+         id="defs4" />
+    <metadata
+         id="metadata7">
+        <rdf:RDF>
+            <cc:Work
+                 rdf:about="">
+                <dc:format>image/svg+xml</dc:format>
+                <dc:type
+                     rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+                <dc:title></dc:title>
+            </cc:Work>
+        </rdf:RDF>
+    </metadata>
+    <g
+         transform="translate(0,-1028.3622)"
+         id="layer1"
+         inkscape:groupmode="layer"
+         inkscape:label="Layer 1">
+        <path
+             id="path4374"
+             title="sin(x)/x"
+             d="m 0.92448345,1040.8498 c 0.28127705,0.2827 0.56255605,0.5588 0.84383305,0.7588 0.281279,0.2 0.5625561,0.3196 0.8438331,0.3306 0.281278,0.01 0.562557,-0.096 0.843834,-0.2956 0.281278,-0.1993 0.562556,-0.4915 0.8438331,-0.809 0.28128,-0.3178 0.562557,-0.6581 0.843834,-0.937 0.281278,-0.2791 0.562556,-0.495 0.843834,-0.587 0.2812771,-0.093 0.5625561,-0.062 0.8438331,0.093 0.281277,0.1554 0.562555,0.4342 0.843834,0.7757 0.281277,0.3413 0.5625561,0.7422 0.8438331,1.1063 0.281277,0.364 0.562557,0.6879 0.843834,0.8865 0.281277,0.1984 0.562555,0.2694 0.8438331,0.1854 0.281278,-0.085 0.562556,-0.3248 0.843834,-0.6738 0.281277,-0.349 0.562556,-0.8037 0.843833,-1.2587 0.281278,-0.4551 0.562555,-0.9067 0.843834,-1.2397 0.281277,-0.3327 0.562554,-0.5444 0.843834,-0.5674 0.281277,-0.023 0.562554,0.1421 0.843833,0.4744 0.281277,0.3323 0.562555,0.829 0.843834,1.3825 0.281277,0.5534 0.562554,1.1589 0.843833,1.6678 0.281277,0.5091 0.562555,0.9172 0.843833,1.1066 0.281278,0.1893 0.562555,0.1578 0.843833,-0.1174 0.281278,-0.2752 0.562556,-0.7925 0.843833,-1.455 0.281279,-0.6625 0.562556,-1.4653 0.843835,-2.224 0.281277,-0.7584 0.562555,-1.4667 0.843832,-1.9322 0.281279,-0.4663 0.562556,-0.6833 0.843834,-0.5493 0.281278,0.134 0.562556,0.621 0.843834,1.4096 0.281278,0.7886 0.562555,1.8752 0.843833,3.0475 0.281278,1.1724 0.562556,2.4233 0.843833,3.4465 0.281278,1.0232 0.562556,1.8113 0.843834,2.0817 0.281278,0.2704 0.562556,0.019 0.843833,-0.8901 0.281279,-0.909 0.562556,-2.4744 0.843834,-4.6079 0.281278,-2.1337 0.562556,-4.8298 0.843833,-7.7808"
+             style="fill:none;stroke:#000000;stroke-width:1.80801404;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+             inkscape:connector-curvature="0" />
+    </g>
+</svg>
