@@ -24,6 +24,8 @@
     <style name="BatteryMeterViewDrawable.Landscape"
         parent="@*com.android.systemui:style/BatteryMeterViewDrawable">
         <item name="android:gravity">top|left</item>
+        <!-- Use overlay blend mode -->
+        <item name="@*com.android.systemui:blendMode">overlay</item>
     </style>
 
 </resources>
